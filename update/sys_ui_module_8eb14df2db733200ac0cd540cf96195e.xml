@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="TEST">86b14df2db733200ac0cd540cf96195d</application>
+        <filter/>
+        <name>TESTs</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_142113_demoservi.test_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-10 09:48:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8eb14df2db733200ac0cd540cf96195e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TESTs</sys_name>
+        <sys_package display_value="DemoService" source="x_142113_demoservi">64412839db3b3200ac0cd540cf9619f3</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DemoService">64412839db3b3200ac0cd540cf9619f3</sys_scope>
+        <sys_update_name>sys_ui_module_8eb14df2db733200ac0cd540cf96195e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-10 09:48:34</sys_updated_on>
+        <table>x_142113_demoservi_test</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
